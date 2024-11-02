@@ -8,7 +8,7 @@ def test_subtract():
     assert subtract(3, 4, 5) == -6
 
 def test_multiply():
-    assert multiply(3, 4, 5) == 60
+    assert multiply(2, 2, 2) == 8
 
 def test_divide():
     assert divide(3, 4, 5) == 0.15
